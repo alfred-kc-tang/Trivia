@@ -213,7 +213,7 @@ The API will return four error types when requests fail:
 }
 ```
 
-## DELETE /questions/question_id
+## DELETE /questions/<question_id>
 - Deletes a question
 - Request Arguments: question id
 - Sample Request: `curl DELETE http://127.0.0.1/questions/<question_id>`
