@@ -90,13 +90,13 @@ The API will return four error types when requests fail:
 
 ## Endpoints
 
-* [GET /categrories](#get-\/categories)
-* [GET /questions](#get-/questions)
-* [DELETE /questions/question_id](#delete-/questions/<question_id>)
-* [POST /questions](#post-/questions)
-* [POST /search](#post-/search)
-* [GET /categories/<category_id>/questions](#get-/categories/<category_id>/questions)
-* [POST /play](#post-/play)
+* [GET /categrories](#get-categories)
+* [GET /questions](#get-questions)
+* [DELETE /questions/question_id](#delete-questions-<question_id>)
+* [POST /questions](#post-questions)
+* [POST /search](#post-search)
+* [GET /categories/<category_id>/questions](#get-categories-<category_id>-questions)
+* [POST /play](#post-play)
 
 ### GET /categories
 
