@@ -92,10 +92,10 @@ The API will return four error types when requests fail:
 
 * [GET /categrories](#get-categories)
 * [GET /questions](#get-questions)
-* [DELETE /questions/question_id](#delete-questions-<question_id>)
+* [DELETE /questions/<question_id>](#delete-questionsquestion_id)
 * [POST /questions](#post-questions)
 * [POST /search](#post-search)
-* [GET /categories/<category_id>/questions](#get-categories-<category_id>-questions)
+* [GET /categories/<category_id>/questions](#get-categoriescategory_idquestions)
 * [POST /play](#post-play)
 
 ### GET /categories
