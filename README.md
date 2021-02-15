@@ -90,7 +90,7 @@ The API will return four error types when requests fail:
 
 ## Endpoints
 
-* [GET /categrories](#get-/categories)
+* [GET /categrories](#get /categories)
 * [GET /questions](#get-/questions)
 * [DELETE /questions/question_id](#delete-/questions/<question_id>)
 * [POST /questions](#post-/questions)
